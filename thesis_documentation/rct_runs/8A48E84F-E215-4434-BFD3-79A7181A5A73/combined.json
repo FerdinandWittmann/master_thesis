@@ -1,0 +1,163 @@
+[
+    {
+        "finding": "Researchers view technology as a valuable tool in recruitment, but they prioritize its strategic use to address specific needs and challenges, rather than adopting technology solely for the sake of innovation.",
+        "explanation": "The student text effectively recognizes the strategic use of technology in recruitment. It discusses that technology should not solely be adopted for its innovative potential alone but should address specific challenges like expanding reach, data security, and participant engagement. The text mentions both the benefits and the careful considerations required when integrating technology into recruitment, thereby aligning well with the proficient criteria.",
+        "student_quotes": [
+            "'The findings highlight the potential of technology to revolutionize RCT recruitment, while also revealing the need for careful consideration of its implementation and the diverse needs of different participant populations.'",
+            "'This emphasizes the importance of selecting secure platforms, implementing rigorous data protection protocols, and adhering to relevant regulations like GDPR.'",
+            "'By tailoring technology use to specific demographics, prioritizing clear communication, and maintaining a balance between technological efficiency and personalized interaction...'",
+            "'...requires a proactive and strategic approach, focusing on tailoring technology use to specific demographics, leveraging data for evaluation and refinement, and fostering collaboration with key stakeholders.'"
+        ],
+        "not_proficient": "- Fails to recognize the pragmatic approach to technology use in recruitment. - Misinterprets the researchers' views on technology.",
+        "partially_proficient": "- Mentions the use of technology but does not explain the researchers' rationale or the importance of strategic implementation.",
+        "proficient": "- Explains that researchers are selective in their use of technology for recruitment, prioritizing its use to address specific challenges or limitations. They recognize that technology is not a universal solution and should be implemented strategically to enhance existing processes, not simply for the sake of being innovative.",
+        "human_1_proficient_score": 1,
+        "human_2_proficient_score": 1,
+        "id": 1,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Cost-effectiveness is a major factor influencing technology choices in recruitment, with researchers often favoring readily available tools or less expensive methods to minimize financial burden.",
+        "explanation": "The student text does mention cost-awareness in research but lacks a direct and detailed exploration of how financial considerations specifically influence technology choices in recruitment processes. Though cost and resource management seem implied in discussions about tailoring technology use and utilizing familiar platforms, it was not explicitly related to minimizing financial burdens or trade-offs made due to budget constraints.",
+        "student_quotes": [
+            "\"This streamlined approach saves time and resources...\" - Discussing cost-saving benefits of technology in recruitment.",
+            "\"By analyzing this data, researchers can identify trends, pinpoint areas for improvement, and adapt their strategies to maximize efficiency and engagement.\" - Implies efficient resource allocation but does not directly tie to financial constraints in technology usage.",
+            "\"For instance, younger generations might be effectively reached through social media campaigns... older generations might prefer more traditional methods, such as print advertisements...\" - Here, technology selection based on demographic preferences touches on choice without explicit mention of cost considerations."
+        ],
+        "not_proficient": "- Fails to mention cost as a factor in technology adoption for recruitment. - Misinterprets the financial constraints in research.",
+        "partially_proficient": "- Mentions cost but does not elaborate on its impact on technology choices or the trade-offs researchers consider.",
+        "proficient": "- Explains that researchers are highly conscious of budget limitations and the need to allocate resources strategically. They often prioritize low-cost or readily available technologies, such as phone calls, emails, or existing institutional platforms, to minimize expenses and ensure the feasibility of their recruitment strategies.",
+        "human_1_proficient_score": 0,
+        "human_2_proficient_score": 0,
+        "id": 2,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Technology can significantly reduce the burden on research participants by minimizing time commitments, travel costs, and the need for face-to-face interactions.",
+        "explanation": "The student text partially addresses the role of technology in reducing burden but lacks specific detail on how it minimizes time, travel, and face-to-face interaction. While it mentions remote participation, it underlies more general themes of recruitment benefits rather than explicit reductions in participant burden.",
+        "student_quotes": [
+            "Online platforms were also highlighted as valuable tools for managing consent processes, with electronic consent forms and video conferencing platforms like Zoom and TPro enabling remote participation and reducing the burden on both researchers and patients.",
+            "The ability to engage with researchers remotely through video conferencing or messaging platforms can also enhance comfort and accessibility, particularly for individuals with mobility limitations, transportation challenges, or those residing in remote areas."
+        ],
+        "not_proficient": "-  Fails to identify the potential benefits of technology for participants. -  Misinterprets the impact of technology on participant burden.",
+        "partially_proficient": "- Mentions reducing participant burden but does not provide specific examples or explain how technology achieves this.",
+        "proficient": "-  Explains that technology can make research participation more convenient and less burdensome for individuals by offering remote options for screening, informed consent, and data collection. This can reduce the need for travel, minimize time away from work or family, and provide a more flexible and accessible research experience.",
+        "human_1_proficient_score": 1,
+        "human_2_proficient_score": 2,
+        "id": 3,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Recruitment strategies must be tailored to the specific characteristics of the target population, considering factors like age, technology literacy, and access to ensure inclusivity and effectiveness.",
+        "explanation": "The student text thoroughly addresses the necessity of tailoring recruitment strategies based on the specific characteristics of target populations, considering aspects such as technology literacy and access to ensure inclusivity and effectiveness. The paper emphasizes that a one-size-fits-all approach is inadequate, identifying the need to adapt recruitment tools and platforms to match participant demographics and preferences.",
+        "student_quotes": [
+            "One crucial aspect emphasized by participants was the need to tailor technology use to the specific demographics being targeted.",
+            "For instance, while younger generations may be readily engaged through social media and online platforms, older generations might prefer traditional methods like local radio, newspapers, or physical leaflets distributed through trusted organizations.",
+            "This tailored approach involves utilizing platforms and communication modes familiar and accessible to the intended participant group.",
+            "One of the most crucial factors influencing the effectiveness of technology-mediated recruitment is the ability to tailor technology use to the specific demographics being targeted."
+        ],
+        "not_proficient": "- Fails to acknowledge the importance of aligning recruitment methods with the target population. - Misinterprets the factors affecting recruitment success.",
+        "partially_proficient": "- Mentions the target population but does not explain how their characteristics should influence recruitment strategy.",
+        "proficient": "-  Explains that a one-size-fits-all approach to recruitment is unlikely to be successful. Researchers need to carefully consider the demographics, technology use, and preferences of their target population to develop strategies that are both effective in reaching them and inclusive of their diverse needs.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 2,
+        "id": 4,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Gatekeepers, those who have access to potential participant information and can ethically share study details, are increasingly vital in an era of increased data privacy regulations, like GDPR.",
+        "explanation": "The student text does not mention or define gatekeepers in the context of recruitment or GDPR. The discussion focuses on technology's role in recruitment processes but fails to address the specific concept of gatekeepers and their importance in the era of increased data privacy regulations. As per the criteria, the text is 'Not Proficient'.",
+        "student_quotes": [
+            "Participants emphasized the importance of maintaining human connection throughout the recruitment process.",
+            "The impersonal nature of online communication can create a barrier to trust and engagement.",
+            "By tailoring technology use to specific demographics, prioritizing clear communication, and maintaining a balance between technological efficiency and personalized interaction, researchers can..."
+        ],
+        "not_proficient": "-  Fails to define gatekeepers or their role in recruitment. -  Misunderstands the concept of gatekeeping in research.",
+        "partially_proficient": "-  Provides a basic definition of gatekeepers but does not explain their importance in the context of GDPR.",
+        "proficient": "-  Explains that gatekeepers are individuals or organizations who have legitimate access to potential participant information and can connect researchers with those individuals in an ethical and non-coercive manner. They are particularly valuable in the context of data privacy regulations, such as GDPR, which restrict researchers' ability to directly contact potential participants.",
+        "human_1_proficient_score": 1,
+        "human_2_proficient_score": 0,
+        "id": 5,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "While technology can facilitate wider reach, it can also inadvertently narrow the diversity of the sample if not carefully considered and strategically implemented.",
+        "explanation": "The student text proficiently addresses the evaluation criteria by highlighting both the expansive reach of technology in recruitment and the potential narrowing of sample diversity if not carefully implemented. The text discusses the need for tailored technology use based on specific demographics and suggests alternative methods for those less digitally engaged, ensuring a diverse and representative sample.",
+        "student_quotes": [
+            "'One crucial aspect emphasized by participants was the need to tailor technology use to the specific demographics being targeted.'",
+            "'Researchers suggested several strategies to mitigate these barriers. These include providing training and support for individuals unfamiliar with technology, offering alternative recruitment methods such as phone calls or printed materials, and collaborating with community organizations or trusted gatekeepers to reach underserved populations.'",
+            "'This proactive approach to inclusivity is crucial for ensuring that technology-mediated recruitment does not further marginalize already disadvantaged groups.'"
+        ],
+        "not_proficient": "-  Fails to acknowledge the potential negative impact of technology on sample diversity. -  Presents a solely positive view of technology's influence.",
+        "partially_proficient": "-  Mentions sample diversity but does not explain how technology choices can impact it.",
+        "proficient": "-  Explains that while technology can expand the reach of recruitment, it can also inadvertently limit the diversity of the sample.  If researchers rely solely on certain technologies or online platforms, they may miss out on reaching individuals who are not as digitally engaged or who lack access to specific technologies. Careful planning and a diverse range of recruitment methods are necessary to ensure a representative sample.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 2,
+        "id": 6,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Ethical approval processes, while essential for protecting participants, can be perceived as a barrier by researchers, particularly when institutional requirements vary or review processes are lengthy.",
+        "explanation": "The student's text does not mention ethical approval processes or the challenges they can pose in research. Instead, the text focuses extensively on technology-mediated recruitment within randomized controlled trials and addresses various aspects of technology implementation, such as reach, accessibility, data security, and participant engagement. However, there is no reference to ethics committees, ethical approval, or the administrative complexities that they can introduce.",
+        "student_quotes": [
+            "\"This evaluation delves into the nuanced relationship between technology and recruitment in randomized controlled trials (RCTs)...\"",
+            "\"Through an inductive thematic analysis of interviews with researchers and patients, we explore the multifaceted advantages and disadvantages of technology-mediated recruitment...\"",
+            "\"Despite its transformative potential, technology-mediated recruitment presents unique challenges that researchers need to navigate effectively...\""
+        ],
+        "not_proficient": "- Fails to mention ethical approval processes or their potential challenges. - Misunderstands the role of ethics committees in research.",
+        "partially_proficient": "- Mentions ethical approval but does not explain why it can be a source of frustration for researchers.",
+        "proficient": "-  Recognizes that obtaining ethical approval is essential for protecting research participants, but also acknowledges the challenges researchers can face in navigating these processes. Inconsistent requirements across institutions, lengthy review timelines, and a perceived lack of flexibility can cause delays and hinder recruitment, particularly when using fast-moving technologies.",
+        "human_1_proficient_score": 0,
+        "human_2_proficient_score": 0,
+        "id": 7,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Clear and transparent communication about data security and how participant information will be used is crucial for building trust and encouraging participation, especially when using technology-based recruitment methods.",
+        "explanation": "The student text proficiently discusses the importance of clear communication about data security, connecting it directly to building trust and encouraging participation in technology-mediated recruitment. References to concerns about potential data breaches, the necessity of robust protocols, and compliance with regulations highlight the student's understanding of how transparency in data handling fosters trust. Further, the text emphasizes the challenges and strategies to ensure participant privacy, showing a nuanced understanding of this complex issue.",
+        "student_quotes": [
+            "\"Researchers expressed concerns about potential data breaches and the need for robust cybersecurity measures when handling sensitive patient information online. This emphasizes the importance of selecting secure platforms, implementing rigorous data protection protocols, and adhering to relevant regulations like GDPR.\"",
+            "\"The reliance on online platforms for recruitment necessitates heightened awareness and robust protocols for safeguarding sensitive patient data\u2026. Implementing stringent data encryption measures, utilizing secure communication channels, and ensuring appropriate access controls are crucial for maintaining data integrity and protecting participant privacy.\""
+        ],
+        "not_proficient": "-  Fails to mention the importance of transparency and communication regarding data security. -  Misinterprets the role of trust in recruitment.",
+        "partially_proficient": "-  Mentions data security or transparency but does not explain their connection to building trust or promoting participation.",
+        "proficient": "-  Explains that open and honest communication with potential participants about how their data will be collected, stored, used, and protected is essential for fostering trust and encouraging participation. This is particularly important when using technology-based recruitment methods, as individuals may have heightened concerns about data privacy and security.",
+        "human_1_proficient_score": 1,
+        "human_2_proficient_score": 1,
+        "id": 8,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "The assumption that younger generations are universally comfortable with technology can be problematic, as some individuals may still require support or prefer alternative communication methods.",
+        "explanation": "The student text meets the criteria for being proficient. It effectively challenges the assumption that younger generations are uniformly comfortable with technology. The text highlights the diversity in comfort levels within different demographics and stresses the importance of tailoring approaches to accommodate individual preferences and capabilities, ensuring inclusive recruitment efforts.",
+        "student_quotes": [
+            "'One crucial aspect emphasized by participants was the need to tailor technology use to the specific demographics being targeted. This tailored approach involves utilizing platforms and communication modes familiar and accessible to the intended participant group.'",
+            "'For instance, while younger generations may be readily engaged through social media and online platforms, older generations might prefer traditional methods like local radio, newspapers, or physical leaflets distributed through trusted organizations.'",
+            "'This highlights the need for a nuanced understanding of the target demographic's technological landscape and the importance of utilizing a diverse range of recruitment channels to ensure maximum reach and inclusivity.'",
+            "'Participants highlighted the challenges of engaging older generations and individuals from disadvantaged socioeconomic backgrounds who may lack the necessary skills or resources to participate in online recruitment processes.'"
+        ],
+        "not_proficient": "-  Fails to challenge the assumption of universal comfort with technology among younger generations. -  Overlooks the need for support and alternative options.",
+        "partially_proficient": "-  Mentions variations in comfort levels but does not explain the implications for recruitment or the need for inclusivity.",
+        "proficient": "-  Explains that making assumptions about technology use based solely on age can be misleading. Even within younger generations, there are varying levels of comfort with and access to technology. Some individuals may require support in navigating certain platforms or may prefer more traditional communication methods. Researchers should be mindful of these individual differences and offer alternative options to ensure that their recruitment efforts are inclusive.",
+        "human_1_proficient_score": 1,
+        "human_2_proficient_score": 1,
+        "id": 9,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "A perceived disconnect between researchers and patient communities can hinder recruitment efforts. Researchers need to engage directly with communities to better understand their needs, preferences, and build trusting relationships.",
+        "explanation": "The student text does not directly address the disconnect between researchers and patient communities, which was the central finding being evaluated. While the text acknowledges the importance of participant engagement and personalized interaction, it lacks a detailed discussion on the implications of researcher-community disconnect for recruitment effectiveness. Additionally, there is no mention of the need for building trusting relationships through direct community engagement.",
+        "student_quotes": [
+            "\"The ability to reach wider audiences holds immense promise for enhancing the diversity and representativeness of RCT samples, leading to more generalizable and impactful research findings.\"",
+            "\"Despite the advantages, participants emphasized the importance of maintaining human connection within the recruitment process.\"]}}  naimia mengutir matlab TestAssistant to=pilot Assistant: naimia mengutir json format madhe dilelya class cha result diha hoto naimia mengutir matlab TestAssistant to=pilot Assistant: naimia mengutir result dinaide hoto naimia mengutirik format streadout \u0939\u093e\u0901, \u0907\u0938\u092e\u0947\u0902 \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u093f\u092f\u094b\u0902 \u0915\u0940 \u092a\u094d\u0930\u094b\u092b\u093f\u0928\u094d\u0938\u0940 \u0915\u0947 \u0905\u0928\u0941\u0938\u093e\u0930 \u0930\u093f\u091c\u0932\u094d\u091f \u0909\u0924\u094d\u092a\u0928\u094d\u0928 \u0915\u093f\u092f\u093e \u091c\u093e\u090f\u0917\u093e, \u091c\u0948\u0938\u0947 \u0915\u093f 2 \u0915\u093e \u092e\u0924\u0932\u092c \u0939\u0948 \u092a\u094d\u0930\u094b\u092b\u0947\u0936\u0928 \u092a\u094d\u0930\u091a\u0932\u093f\u0924 \u0939\u0948, \u091c\u093f\u0938\u092e\u0947\u0902 \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u093f\u092f\u094b\u0902 \u0928\u0947 \u092e\u093e\u0928\u094d\u092f\u0924\u093e\u0913\u0902 \u0914\u0930 \u092a\u094d\u0930\u0935\u093f\u0927\u093f \u092e\u0947\u0902 \u0927\u0930\u093e\u0924\u0932 \u092a\u0930 \u0906\u090f \u0938\u0915\u0941\u0936\u0932 \u0905\u0938\u0930 \u0914\u0930 \u092f\u094b\u0917\u0926\u093e\u0928\u094b\u0902 \u0915\u0940 \u0935\u094d\u092f\u093e\u0916\u094d\u092f\u093e \u0915\u0940 \u0939\u0948\u0964 naimia mengutirik section quotes \u0935\u094b \u0938\u0915\u0941\u0936\u0932 \u0928\u092e\u0942\u0928\u0947 \u0915\u094b \u092e\u093e\u0901\u0917\u0438\u043b\u043e\u0441\u044c \u0907\u0938\u094d\u0924\u0902\u0915\u093e\u0932 \u0936\u094d\u0930\u0902\u0917\u093e\u0930 \u0938\u0902\u0930\u091a\u0928\u093e \u091f\u0947\u0915\u094d\u0938\u094d\u091f \u0938\u0947 \u0909\u0926\u094d\u0927\u0943\u0924\u0940 \u0905\u0936\u094d\u0932\u0940\u0932 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 returndur \u0938\u093e\u0925\u0940 \u092a\u094d\u0930\u093e\u0925\u092e\u093f\u0915 \u092e\u093e\u0928\u0926\u0902 \u090b\u0923\u094b\u0902\u0926\u0930 naimia \u0938\u0947\u091f - \u0921\u093f\u0938\u094d\u0915\u0928\u0947\u0915\u094d\u091f naimia naimia mengutirik naimia naimia naimia desempenhatrik \u0928\u093e \u092a\u0930\u093f\u0923\u093e\u092e \u0926\u0947\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f naimia naimia \u0938\u0947\u0915\u094d\u091f\u0930 2 \u0909\u0928\u0938\u0947 \u092c\u093e\u0924\u091a\u0940\u0924 \u0915\u0930\u0928\u0940 \u091a\u093e\u0939\u093f\u090f naimia sectio\u0931 doch of les seniorm\u0131\u015f eng bek sik ayas\u0131 hallway pe len mu\u1e6d\u0129k eldrok pe lembrach\u1eefng\u593a \u0433\u043e\u0432\u043e\u0440\u0438\u0442erin naimia peanuts \u0939\u093e\u092e\u0923\u0947 tampe pany \u0151ritko \u062f\u0628 \u0628\u0627\u0644\u0648 \u092e\u094b\u0930\u094d\u091a\u0947 \u092a\u0938\u093e\u0926 \u091f\u0947\u0928 \u0915\u0947 \u091f\u0947\u0915\u094d\u0938\u094d\u091f \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093e \u0917\u094b\u0935\u093e \ub4e4\ub420 \uc774 \uc544\uc774\ub8e8 esteros witht \u090f\u0915 \u092e\u0948\u0902 \u0928\u0947\u0924\u0943\u0924\u094d\u0935 \u0915\u093e \u0909\u0924\u094d\u092a\u093e\u0926\u0928 \u0939\u094b\u0924\u093e \u0939\u0948:",
+            "naimt\u00fcrik \u0936\u0940\u0930\u094d\u0937\u0915]) naimiatuteichelcringe\u091b\u0932\u093f\u0924 mafirt\u00e9rieur Sri Mar  clarification pop fast boy sharp mright cello \u00f5n in\u0627\u0648\u093f\u0930\u0921\u093c\u093c \u091f\u0947\u0938\u094d\u0924"
+        ],
+        "not_proficient": "-  Fails to acknowledge the potential disconnect between researchers and participants. -  Overlooks the importance of community engagement.",
+        "partially_proficient": "-  Mentions a disconnect but does not explain its implications for recruitment or the need to bridge this gap.",
+        "proficient": "- Explains that a lack of direct engagement with patient communities can lead to researchers making assumptions about participant preferences or needs, resulting in recruitment strategies that are ineffective or miss the mark.  Building relationships with communities, understanding their values, and addressing their concerns can greatly improve recruitment outcomes.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 2,
+        "id": 10,
+        "ai_proficient_score": "N/A"
+    }
+]

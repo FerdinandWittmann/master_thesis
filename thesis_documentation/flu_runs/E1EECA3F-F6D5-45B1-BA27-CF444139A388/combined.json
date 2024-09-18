@@ -1,0 +1,147 @@
+[
+    {
+        "finding": "Socioeconomic factors, including age, deprivation level, and employment status, are associated with preschool influenza vaccination uptake.",
+        "explanation": "The student text does mention socioeconomic factors influencing vaccination decisions, but it largely focuses on perceived threats, benefits, and practical considerations rather than explicitly detailing the association between age, deprivation level, and employment status with vaccination uptake. While there are indirect mentions of socioeconomic elements, they aren't sufficiently connected to specific socioeconomic indicators or their impact on vaccination uptake.",
+        "student_quotes": [
+            "Subtheme 5 mentions 'reliance on GP-initiated vaccination process,' suggesting an indirect socioeconomic factor where the reliance on healthcare providers can be affected by access and employment status.",
+            "Subtheme 8 discusses 'Limited Awareness of Private Vaccination Options,' hinting at deprivation level indirectly, as those in more deprived areas might lack awareness or resources."
+        ],
+        "not_proficient": "- Fails to identify any association between socioeconomic factors and vaccination status. -  Misinterprets the demographic data.",
+        "partially_proficient": "- Mentions socioeconomic factors but does not explain the specific relationships observed or their relevance to vaccination uptake.",
+        "proficient": "-  Explains that parents who chose to vaccinate their preschool children against influenza were more likely to be older, live in less deprived areas, and be in full-time employment compared to parents who did not vaccinate, suggesting an influence of socioeconomic factors on vaccination decisions.",
+        "human_1_proficient_score": 0,
+        "human_2_proficient_score": 0,
+        "id": 1,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Knowledge and awareness of influenza, including its severity and potential impact on children, play a key role in parental decision-making.",
+        "explanation": "The student text proficiently discusses how knowledge and awareness of influenza influence parental decision-making regarding vaccination. It effectively differentiates between varying levels of parental knowledge and their impact on vaccination choices. The text explains how a perception of influenza as a common, manageable illness lowers perceived need for vaccination, while recognizing its severity, especially in vulnerable populations, motivates vaccination uptake. These insights align with the proficient criteria, demonstrating a clear understanding of how awareness of influenza, including its potential impact on children, guides parental vaccination decisions.",
+        "student_quotes": [
+            "\"This perception, while acknowledging influenza as a seasonal ailment, often minimizes its potential severity and reduces the perceived need for vaccination.\"",
+            "\"Interestingly, some parents struggled to differentiate between a common cold and influenza in their children.\"",
+            "\"This awareness of the potential for transmission and serious consequences in vulnerable populations emerged as a key driver for considering and opting for influenza vaccination.\""
+        ],
+        "not_proficient": "- Fails to mention the importance of parental knowledge about influenza. -  Misrepresents the role of knowledge in vaccination decisions.",
+        "partially_proficient": "- Mentions parental knowledge but does not differentiate between varying levels of knowledge or explain how it influences vaccination choices.",
+        "proficient": "-  Explains that a good understanding of influenza, including its symptoms, severity compared to the common cold, seasonal patterns, and potential impact on children, was a strong factor influencing parental decisions to vaccinate. Conversely, a lack of knowledge about the flu, particularly its potential severity in children, was associated with lower vaccination uptake.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 2,
+        "id": 2,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Parental perceptions of the safety and effectiveness of the influenza vaccine are crucial in shaping their willingness to vaccinate their children.",
+        "explanation": "The student text thoroughly discusses the role of parental perceptions of vaccine safety and effectiveness in shaping vaccination decisions, aligning it with the definition for a proficient score. The paper emphasizes that parents who viewed the influenza vaccine as safe and effective were more inclined to vaccinate their children due to trust in healthcare providers and recognition of enhanced community safety. This directly corresponds to the proficient criteria by not only mentioning parental perceptions but also explaining their influential outcomes on vaccination decisions.",
+        "student_quotes": [
+            "\"A significant facilitator for influenza vaccine uptake was the strong confidence parents expressed in its effectiveness and safety.\"",
+            "\"They viewed the vaccine as a valuable tool to reduce the risk of their child contracting influenza...\"",
+            "\"This subtheme underscores the crucial role of trust in healthcare providers and scientific consensus in influencing vaccine uptake.\"",
+            "\"This trust appears to stem from a belief that the complex decisions surrounding vaccination schedules have been thoroughly considered by experts with a deeper understanding of the medical and ethical implications.\""
+        ],
+        "not_proficient": "-  Fails to mention parental perceptions of vaccine safety or effectiveness. -  Misinterprets parental views on the vaccine.",
+        "partially_proficient": "-  Mentions perceptions of safety or effectiveness but does not explain their influence on vaccination decisions.",
+        "proficient": "-  Explains that parents who viewed the influenza vaccine as safe and effective in preventing the flu were more likely to vaccinate their children. The longevity of the vaccine program and the perceived trustworthiness of recommending bodies, like the NHS, contributed to positive perceptions of the vaccine.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 2,
+        "id": 3,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Trust in information sources, particularly official health organizations and established medical institutions, influences parental views on influenza and vaccination.",
+        "explanation": "The student's text thoroughly demonstrates an understanding of how trust in information sources influences parental views on influenza and vaccination. It explicitly discusses parents' reliance on official health organizations, particularly the NHS, and how these sources are preferred over less reliable ones like online forums. Moreover, the text highlights trust in healthcare professionals' recommendations, emphasizing a preference for evidence-based information.",
+        "student_quotes": [
+            "\"If I wasn't provided with information at the point of asking me to taking a vaccination and I would probably again look at the NHS website, maybe\" [2:2.5].",
+            "\"For many parents, a recommendation from their GP or the NHS is sufficient to motivate vaccine uptake.\"",
+            "\"The NHS website emerges as a cornerstone of trust for parents seeking information about influenza and vaccinations.\""
+        ],
+        "not_proficient": "-  Fails to mention the role of trusted information sources. -  Misrepresents the sources of information that parents rely on.",
+        "partially_proficient": "-  Mentions trusted sources but does not elaborate on their specific role in shaping parental decisions.",
+        "proficient": "- Explains that parents relied heavily on trusted sources of information, particularly the NHS website and reputable medical organizations, when making decisions about influenza vaccination. This reliance on credible sources suggests a preference for evidence-based information and a cautious approach to less reliable sources like online forums or social media.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 2,
+        "id": 4,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Convenience and accessibility of vaccination opportunities, including appointment scheduling and vaccine availability, play a significant role in facilitating uptake.",
+        "explanation": "The student text addresses the theme of convenience and accessibility comprehensively in the section 'Access and Practical Considerations Related to Vaccination.' They discuss the role of GP-led communication, proactive parental engagement, and logistical challenges such as scheduling constraints, which align well with the criteria for proficient scoring. The text provides detailed examples and effectively explains how these factors can serve as barriers or facilitators to vaccination uptake.",
+        "student_quotes": [
+            "'This subtheme examines the pivotal role of General Practitioners (GPs) in shaping parents' decisions about vaccinating their preschool-aged children against influenza.'",
+            "'Limited clinic availability and inflexible appointment timings emerge as major pain points.'",
+            "'Addressing these issues through flexible scheduling options, extended clinic hours...'",
+            "'The analysis reveals a clear and consistent preference among parents for the nasal spray flu vaccine.'"
+        ],
+        "not_proficient": "-  Fails to mention the importance of convenience and access. -  Misinterprets the factors influencing vaccine accessibility.",
+        "partially_proficient": "-  Mentions convenience or access but does not provide specific examples or explain how challenges in these areas hinder vaccination.",
+        "proficient": "-  Explains that easy and convenient access to vaccination, with flexible appointment scheduling and readily available vaccines, significantly increases the likelihood of parents getting their children vaccinated. Conversely, inconvenient appointment times, vaccine shortages, or difficulties navigating the system (especially for those who have relocated) are major barriers to vaccination.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 2,
+        "id": 5,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Fear of their child experiencing a severe case of influenza is a strong motivator for parents to vaccinate, particularly for those with children considered high-risk.",
+        "explanation": "The student text is proficient as it clearly addresses the fear of parents regarding their child experiencing severe influenza. It thoroughly explores the relationship between this fear and the motivation to vaccinate, particularly emphasizing the concerns among parents of vulnerable children or those with pre-existing conditions. Multiple quotes and sections in the text also demonstrate an understanding of the amplified concerns for high-risk children, making a strong case for vaccination as a preventive measure.",
+        "student_quotes": [
+            "Some parents, while acknowledging influenza as a common ailment, expressed concern over its potential severity, particularly in vulnerable populations.",
+            "others recognized its potential to cause serious complications, particularly in vulnerable individuals like the elderly, those with pre-existing health conditions, and infants.",
+            "This awareness of the potential for transmission and serious consequences in vulnerable populations emerged as a key driver for considering and opting for influenza vaccination."
+        ],
+        "not_proficient": "- Fails to mention fear of severe influenza as a motivating factor. -  Misinterprets the emotional aspects of parental decision-making.",
+        "partially_proficient": "-  Mentions fear of severe influenza but does not link it to risk perception or parental concerns.",
+        "proficient": "-  Explains that the fear of their child suffering from a severe case of influenza was a powerful driver for many parents to choose vaccination. This fear was amplified for parents of children with underlying health conditions that could increase their risk of complications.",
+        "human_1_proficient_score": 1,
+        "human_2_proficient_score": 1,
+        "id": 6,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Social norms and a sense of collective responsibility, where vaccination is seen as a social expectation and a way to protect both family and the wider community, contribute to vaccination uptake.",
+        "explanation": "The student text provides a comprehensive and proficient explanation of how social influences and collective responsibility play a significant role in vaccination decisions. It explicitly addresses the concept of vaccinating as a social expectation, underscoring the societal and communal benefits of immunization, such as protecting vulnerable individuals in the community. The analysis delves into sentiments of civic duty and the importance placed on community protection by the parents, illustrating how these factors motivate vaccination uptake.",
+        "student_quotes": [
+            "\"This subtheme highlights the importance of framing influenza vaccination not just as individual protection but also as a collective responsibility. Highlighting the potential risks to vulnerable populations and emphasizing the role of vaccination in reducing disease spread can be powerful motivators.\"",
+            "\"Parents who understood the concept of herd immunity viewed vaccination as a civic duty that extended beyond protecting their child. They acknowledged that widespread vaccination contributed to a safer and healthier community, particularly for those more susceptible to influenza's severe effects.\"",
+            "\"Beyond individual benefits, some parents recognized the collective good associated with influenza vaccination, emphasizing the importance of herd immunity and protecting vulnerable individuals within the community.\"]}}}  fpergner ` * '"
+        ],
+        "not_proficient": "- Fails to address the influence of social norms or collective responsibility. -  Misinterprets the social context of vaccination decisions.",
+        "partially_proficient": "- Mentions social factors but does not explain their specific role in shaping parental choices.",
+        "proficient": "-  Explains that social influences, such as the perception of vaccination as the expected behavior and the belief that vaccinating one's child protects both the family and vulnerable individuals in the community, were significant factors motivating parents to vaccinate.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 2,
+        "id": 7,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Concerns about potential side effects, often based on anecdotal evidence or personal beliefs, can act as a barrier to influenza vaccination.",
+        "explanation": "The student text demonstrates proficiency in addressing the finding that concerns about potential side effects can act as a barrier to influenza vaccination, often based on anecdotal evidence or personal beliefs. The text provides a nuanced explanation of how anxieties about side effects, rooted in personal beliefs and experiences, influence parental vaccination decisions. It also acknowledges that while many parents express confidence in the vaccine's effectiveness and safety, some rely on anecdotes and personal stories, highlighting a mix of scientifically informed and belief-driven hesitancies.",
+        "student_quotes": [
+            "'A significant facilitator for influenza vaccine uptake was the strong confidence parents expressed in its effectiveness and safety.' - Demonstrates how safety concerns can exist alongside confidence in the vaccine.",
+            "'It's obviously just the nasal, nasal spray. So there's no inconvenience there. Kids whine afterward a bit, you know, someone sticking something up their nose, but aside from that, no, there's no, no, no side effects, anything I'd worry about or anything like that.' - Suggests a preference and reduced anxiety when side effects are perceived as minimal.",
+            "'Beyond family networks, parents also turn to online support groups and communities for additional information and peer support.' - Implies the role of anecdotal and shared experiences in decision making.",
+            "'However, it is important to acknowledge that not all parents adhere to this unquestioning acceptance of medical authority.' - Indicates variance in how parents process medical information based on personal belief systems."
+        ],
+        "not_proficient": "- Fails to mention concerns about vaccine side effects. -  Misrepresents parental anxieties about vaccination.",
+        "partially_proficient": "-  Mentions side effect concerns but does not elaborate on their origins or their impact on vaccination decisions.",
+        "proficient": "- Explains that some parents are hesitant to vaccinate their children due to worries about potential side effects, even if those concerns are not always rooted in scientific evidence.  Anecdotal stories from other parents or personal experiences can contribute to these anxieties, even if the perceived risks are not supported by medical data.",
+        "human_1_proficient_score": 0,
+        "human_2_proficient_score": 0,
+        "id": 8,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Negative experiences with or distrust of medical professionals can impact parental motivation to vaccinate, even if it doesn't prevent vaccination altogether.",
+        "explanation": "While the student text extensively covers the perceived threat of influenza, confidence in vaccine effectiveness, and practical considerations related to vaccination, it does not explicitly link negative experiences with healthcare professionals to parental motivation to vaccinate. The discussion around trust in healthcare professionals highlights its importance, yet it stops short of directly connecting distrust due to negative experiences to an impact on vaccination motivation.",
+        "student_quotes": [
+            "The erosion of trust due to negative experiences subtheme mentions: \"This erosion of trust can lead to reluctance in engaging in open communication about health concerns or accepting medical advice.\"",
+            "Another relevant part discusses: \"The presence of conflicting information from healthcare sources further exacerbates this erosion of trust.\" Although these touch on trust issues, they miss directly linking it to vaccination motivation."
+        ],
+        "not_proficient": "-  Fails to mention the role of healthcare provider interactions. -  Misinterprets the importance of trust in the medical system.",
+        "partially_proficient": "-  Mentions negative experiences or distrust but does not link them to vaccination motivation.",
+        "proficient": "-  Explains that negative past experiences with healthcare providers, or a general distrust of the medical system, can influence a parent's willingness to vaccinate their child. While these feelings might not prevent vaccination entirely, they can reduce a parent's enthusiasm or confidence in the process, highlighting the importance of positive and trust-building interactions with healthcare professionals.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 2,
+        "id": 9,
+        "ai_proficient_score": "N/A"
+    }
+]

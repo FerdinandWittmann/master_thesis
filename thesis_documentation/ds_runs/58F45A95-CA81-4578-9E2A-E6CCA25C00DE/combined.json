@@ -1,0 +1,172 @@
+[
+    {
+        "finding": "Active collaboration is the preferred mode of data sharing among scientists.",
+        "explanation": "The student text adeptly describes active collaboration as the preferred and strategically beneficial mode for data sharing among scientists. It underscores this by illustrating how researchers view collaboration not only as a means of sharing data but also as an integral part of the research process that ensures proper interpretation, enhances visibility, and fosters mutual scholarly benefit.",
+        "student_quotes": [
+            "\"They often prefer active collaboration with those seeking to use the data, viewing it as a mechanism to safeguard against misinterpretation.\"",
+            "\"Researchers prioritize partnerships where they can actively contribute to the research process.\"",
+            "\"This desire for active involvement reflects a deep-seated belief that data sharing should be a two-way street, fostering scientific exchange and mutual benefit.\""
+        ],
+        "not_proficient": "- Fails to identify active collaboration as the preferred mode of data sharing. - Misinterprets the preference for collaboration.",
+        "partially_proficient": "- Mentions active collaboration but doesn't emphasize it as the preferred mode of data sharing. -  Lacks specific evidence.",
+        "proficient": "- Clearly states that active collaboration is the dominant preference for data sharing. - Provides strong supporting evidence from the text.",
+        "quote": "The vast majority of interviewees consider active collaboration to be the most desirable mode of working when sharing cohort data and several participants would require active collaboration as a precondition for sharing.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 2,
+        "id": 1,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Scientists perceive inadequate recognition for data contribution without active involvement.",
+        "explanation": "The student text explicitly acknowledges the concern that researchers feel insufficient recognition for their data contributions when they're not actively involved. The text provides substantial evidence through direct quotes and analysis, clearly connecting the concept of inadequate recognition with the necessity for active involvement in the research process to gain recognition.",
+        "student_quotes": [
+            "\"Researchers emphasize that understanding the context in which the data was collected is paramount to proper interpretation. This includes detailed knowledge of the study design, specific methodologies employed, and potential biases that might have influenced data collection.\"",
+            "\"They often prefer active collaboration with those seeking to use the data, viewing it as a mechanism to safeguard against misinterpretation.\"",
+            "\"This desire for control over data interpretation is rooted in a commitment to scientific rigor and a sense of responsibility for ensuring the data's appropriate use.\"",
+            "\"For instance, one researcher stated, 'In general, in the past...only the results were shared but not the actual data,' highlighting a shift towards greater data sharing, but under the condition of active collaboration [3:2.9].\"",
+            "\"It emphasizes a growing awareness of the need to transition towards a more collaborative and open research culture, supported by alternative metrics and recognition mechanisms that accurately reflect the value of data sharing and collaborative research practices.\""
+        ],
+        "not_proficient": "- Doesn't mention lack of recognition for data contribution without active involvement as a concern. - Misunderstands the link between data contribution and recognition.",
+        "partially_proficient": "- Acknowledges the concern of inadequate recognition for data contribution without active involvement but doesn't connect it to the lack of perceived value in data generation without active involvement. - Provides only partial evidence to support the finding.",
+        "proficient": "- Explicitly states the concern of insufficient recognition for data contribution without active involvement. - Provides relevant and impactful evidence from the text to support the finding.",
+        "quote": "Therefore, some interviewees argued that the creation of datasets serves as an investment to later publish academic papers and establish collaborator networks. Without this pay-off, it is argued by several interviewees that data generation would not be interesting, as one could simply use others\u2019 data.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 2,
+        "id": 2,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Misinterpretation of data is a significant concern related to data sharing without active involvement.",
+        "explanation": "The student text clearly articulates the misinterpretation of data as a significant concern in data sharing, focusing on the potential for incorrect conclusions when data is used without understanding its context. The student highlights specific areas where this misinterpretation can occur, such as study design and bias, and provides examples, thus fulfilling the criteria for a proficient score.",
+        "student_quotes": [
+            "A significant barrier within the broader theme of data ownership is the pervasive concern among researchers regarding the potential misinterpretation and misuse of their data. This anxiety stems from the recognition that individuals unfamiliar with the intricacies of the data\u2026 may reach erroneous conclusions or utilize the data in ways that were never intended.",
+            "One researcher vividly explained this concern by stating that 'it can go very, very wrong if you don't know this extra information,' highlighting the potential for flawed research outcomes when data is analyzed without a full understanding of its origins and limitations [1:2.11].",
+            "For example, one researcher described their data sharing approach, stating, 'The Z proposal, one will be part of the writing team, just to be a guaranteer, for the correct description of the cohort et cetera' [1:2.1]."
+        ],
+        "not_proficient": "- Fails to identify misinterpretation of data as a concern. - Misinterprets the reasons behind the concern about data misinterpretation.",
+        "partially_proficient": "- Mentions the concern of data misinterpretation but doesn't elaborate on its potential impact.",
+        "proficient": "- Clearly articulates misinterpretation of data as a key concern, highlighting specific areas where it might occur (study design, variable meaning, bias). - Provides at least one concrete example of misinterpretation from the text.",
+        "quote": "Misinterpretations may occur on the level of study design, the meaning of variables or how to appropriately address biases in the dataset. Complex or context-specific variables, older or research-driven cohorts with unique study designs are argued to be more susceptible to misinterpretation. Several interviewees could name specific instances where misinterpretations have occurred.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 2,
+        "id": 3,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Lack of resources, including time and funding, is a major barrier to data sharing.",
+        "explanation": "The student text does not directly address the finding 'Lack of resources, including time and funding, is a major barrier to data sharing.' The text focuses on themes such as data ownership, misinterpretation, competitive advantage, and legal and ethical considerations but lacks a clear discussion about resource constraints related to time, funding, and administrative support.",
+        "student_quotes": [
+            "'...significant investment of time, effort, and resources poured into its collection and curation...'",
+            "'...process of proposal review, ethical clearance, and agreement negotiation can be time-consuming...'",
+            "No further quotes specifically tie these notions to a barrier in data sharing due to resource constraints."
+        ],
+        "not_proficient": "- Doesn't recognize lack of resources as a barrier to data sharing. - Misinterprets the resource-related challenges to data sharing.",
+        "partially_proficient": "- Mentions lack of resources as a barrier to data sharing but addresses only one specific resource constraint (e.g., time, funding, or administrative support) and its impact on data sharing.",
+        "proficient": "-  Clearly identifies lack of resources as a significant barrier to data sharing, specifically discussing time constraints, funding limitations, AND lack of administrative support, and elaborating on the impact of these constraints on data sharing practices.",
+        "quote": "Interviewees argued that scarcity of resources is a barrier for data sharing. Sharing requires pro-actively thinking about organizational elements, such as ethical and legal provisions, setting up Data Access Committees, and establishing access systems for data requests.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 2,
+        "id": 4,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Scientists express concerns about the loss of control over data once it is shared.",
+        "explanation": "The student text articulates the concern of losing control over data usage clearly and thoroughly. It delves into specific examples of scientists' anxieties about data sharing, such as the risk of misinterpretation, data misuse, challenges with legacy cohorts, and navigating data access through committees. The text includes direct quotes and references that underline these points, demonstrating a comprehensive understanding of the issue.",
+        "student_quotes": [
+            "\"This anxiety stems from the recognition that individuals unfamiliar with the intricacies of the data... may reach erroneous conclusions or utilize the data in ways that were never intended.\"",
+            "\"A significant barrier within the broader theme of data ownership is the pervasive concern... regarding the potential misinterpretation and misuse of their data.\"",
+            "\"This desire for control over data interpretation is rooted in a commitment to scientific rigor and a sense of responsibility for ensuring the data's appropriate use.\"",
+            "\"As the original researchers involved in data collection retire or pass away, the process of transitioning data ownership... raises fundamental questions about authorship and control.\"",
+            "\"Data Access Committees (DACs) and formal data sharing agreements emerge as critical mechanisms through which researchers negotiate and exert control over their data.\""
+        ],
+        "not_proficient": "-  Doesn't identify loss of control over data as a concern. - Misinterprets the nature of control-related concerns regarding data sharing.",
+        "partially_proficient": "-  Mentions the concern of loss of control over data but only elaborates on one specific concern (e.g., competing analyses, publication policies, data misuse) or its implications.",
+        "proficient": "-  Clearly articulates the concern of losing control over data usage, providing specific examples of these anxieties (e.g., unauthorized use, inability to enforce publication policies) from the text.",
+        "quote": "Some interviewees expressed concerns that by sharing data, they may lose control on the downstream data uses such as the use of data for competing analyses without their knowledge.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 2,
+        "id": 5,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Ethical and legal barriers, particularly related to GDPR compliance, pose challenges to data sharing.",
+        "explanation": "The student text touches upon key themes related to ethical and legal barriers in data sharing. It mentions GDPR compliance and informed consent challenges within their analysis. However, the discussion on bureaucratic challenges is less explicit, which limits the proficiency level. Here are the details:\n- **Ethical and Legal Barriers**: The student acknowledges GDPR's impact on sharing practices, mentioning the complexity and variability in interpretations.\n- **GDPR Compliance**: There's an extensive exploration of GDPR\u2019s implications on data sharing, emphasizing challenges researchers face due to international collaborations and differing interpretations.\n- **Informed Consent**: The text considers the limitations of informed consent, especially in older studies, highlighting challenges in adhering to original agreements amid evolving practices.\n- **Bureaucratic Challenges**: While it hints at bureaucratic hurdles through GDPR's interpretation challenges, this aspect could be more detailed to fully assess the bureaucratic side.",
+        "student_quotes": [
+            "'The implementation of the General Data Protection Regulation (GDPR) marked a significant shift...particularly in the context of international data sharing.'",
+            "'Researchers express concerns regarding the complexities of its practical application...even within the same geographic location, which creates significant bureaucratic hurdles.'",
+            "'The reality of obtaining informed consent for specific, often narrowly defined, research purposes creates limitations.'"
+        ],
+        "not_proficient": "-  Fails to mention ethical and legal barriers as challenges to data sharing. - Misinterprets the nature of ethical and legal concerns related to data sharing.",
+        "partially_proficient": "- Mentions ethical and legal barriers as challenges to data sharing, but only addresses one specific challenge (e.g., GDPR compliance, informed consent, bureaucratic processes).",
+        "proficient": "-  Clearly identifies ethical and legal barriers as challenges to data sharing, specifically addressing GDPR compliance, informed consent requirements, AND bureaucratic challenges related to data sharing. ",
+        "quote": "Complying with the requirements set by the General Data Protection Regulation (GDPR) and ethics committees (e.g. in terms of informed consent) was considered to bring several challenges to data sharing.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 2,
+        "id": 6,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "Socio-cultural factors, such as scientists\u2019 desire for active research involvement and enjoyment of collaboration, influence data sharing behaviors.",
+        "explanation": "The student's text partially mentions socio-cultural factors like strategic data sharing for collaboration and the researchers' desire for recognition through co-authorship. However, it lacks a focused articulation on how scientists' professional identity or enjoyment of collaboration directly influence data sharing behaviors, not making it fully proficient.",
+        "student_quotes": [
+            "\"Researchers approach data sharing with a strategic lens, viewing it as a mechanism to foster collaboration, enhance the visibility of their work, and contribute to the advancement of scientific knowledge.\"",
+            "\"They seek opportunities to shape research questions, participate in data analysis, and be recognized for their contributions through co-authorship on publications.\""
+        ],
+        "not_proficient": "-  Fails to recognize socio-cultural factors as influencing data sharing behaviors. -  Misinterprets the role of socio-cultural factors in influencing data sharing.",
+        "partially_proficient": "-  Mentions socio-cultural factors as influencing data sharing behaviors, but only provides a general statement without specific examples related to scientists' self-perception, identity, or enjoyment of collaboration.",
+        "proficient": "-  Clearly articulates how socio-cultural factors, such as scientists' professional identity, desire for active research involvement, and enjoyment of collaboration, influence their willingness to share data.",
+        "quote": "Notably, several interviewees explained their unwillingness to share as data contributors by referring to their identity or role as scientists, or to their enjoyment in collaborative modes of working.",
+        "human_1_proficient_score": 1,
+        "human_2_proficient_score": 0,
+        "id": 7,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "The establishment of trust is a prerequisite for data sharing, especially with unfamiliar collaborators or institutions.",
+        "explanation": "The student text partially touches on the need for trust in data sharing but focuses more on control, oversight, and strategic collaboration rather than clearly establishing the role of trust as a prerequisite in data sharing with unfamiliar entities. While the text mentions concerns about data misuse and collaboration preferences, it doesn't explicitly link trust establishment with the willingness to share data with unfamiliar collaborators.",
+        "student_quotes": [
+            "'This anxiety stems from the recognition that individuals unfamiliar with the intricacies of the data... may reach erroneous conclusions or utilize the data in ways that were never intended.'",
+            "'...researchers express a heightened need for control and oversight to ensure the data's responsible and accurate utilization.'"
+        ],
+        "not_proficient": "- Fails to identify the establishment of trust as a factor influencing data sharing. - Misinterprets the role of trust in data sharing decisions.",
+        "partially_proficient": "-  Mentions the need for trust but doesn't clearly explain its connection to data sharing willingness or provides weak evidence from the text.",
+        "proficient": "- Clearly articulates how the establishment of trust is essential for data sharing, particularly highlighting the reluctance to share with unfamiliar entities due to lack of established trust. - Provides relevant evidence from the text.",
+        "quote": "Something which is very important is trust. That those who are sharing the data are always sharing it for collaborative research [and] that they can trust that the data is treated as it should be treated. (. . .) When we send data to a new place or in particular to some collaborator who is not a member of our consortium, that they hesitate to allow to use or transfer the data. (. . .) There seems to be very strong resistance from the [cohorts] because they do not yet trust that place.",
+        "human_1_proficient_score": 0,
+        "human_2_proficient_score": 1,
+        "id": 8,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "'Reciprocity' in data sharing ensures that all parties involved benefit fairly from data contributions and are not disadvantaged by sharing their data.",
+        "explanation": "The student text does mention the concept of 'reciprocity' in data sharing, but it doesn't clearly articulate how it ensures fair benefit sharing or prevents academic disadvantages as expected for a 'proficient' evaluation. Instead, the text mostly focuses on data ownership, collaborative involvement, and strategic benefits, rather than explicitly discussing reciprocity's role in balancing contributions and benefits.",
+        "student_quotes": [
+            "This strategic approach stands in contrast to the notion of data sharing as a passive act of making data available; instead, it highlights a desire for active engagement and mutual benefit.",
+            "...they seek opportunities to shape research questions, participate in data analysis, and be recognized for their contributions through co-authorship on publications..."
+        ],
+        "not_proficient": "-  Fails to relate 'reciprocity' to data sharing practices. - Misinterprets the concept of 'reciprocity' in the context of data sharing.",
+        "partially_proficient": "-  Mentions 'reciprocity' but doesn't elaborate on its connection to fair benefit sharing, avoiding academic disadvantages, or ensuring mutual data sharing among collaborators.",
+        "proficient": "-  Clearly explains how 'reciprocity' in data sharing ensures fair benefit sharing, prevents researchers from being academically disadvantaged by contributing their data, and promotes a culture of mutual data sharing within collaborations.",
+        "quote": "Reciprocity refers to the fact that no party is unjustly disadvantaged in terms of academic credit by contributing data: When one shares, all others must share as well.",
+        "human_1_proficient_score": 1,
+        "human_2_proficient_score": 2,
+        "id": 9,
+        "ai_proficient_score": "N/A"
+    },
+    {
+        "finding": "'Transparency' in data sharing involves clear communication and agreed-upon rules regarding data access, usage, and authorship, fostering trust among collaborators.",
+        "explanation": "The student text touches upon transparency in specific contexts but lacks a thorough and direct analysis, leaving room for improved connection to the idea of fostering trust through transparency in data sharing.",
+        "student_quotes": [
+            "'...data sharing should be a two-way street, fostering scientific exchange and mutual benefit,' hints at an understanding of collaboration but lacks explicit emphasis on transparency in this context.",
+            "'...these agreements serve to protect the interests of both the data generators and those seeking to use the data,' addresses agreements and protection but does not directly tie back to transparency enhancing trust."
+        ],
+        "not_proficient": "-  Fails to connect 'transparency' to data sharing practices. - Misinterprets the meaning of 'transparency' in the context of data sharing.",
+        "partially_proficient": "-  Mentions 'transparency' in the context of data sharing but fails to adequately elaborate on its importance for establishing clear expectations, fostering trust, or ensuring responsible data usage.",
+        "proficient": "-  Clearly articulates how 'transparency' in data sharing, through clear communication and agreed-upon rules, is essential for building trust, ensuring ethical data use, and promoting successful collaborations.",
+        "quote": "Transparency refers to the need for clear rules on the ability to participate in downstream analysis, on providing input at various stages and on publication and authorship policies.",
+        "human_1_proficient_score": 2,
+        "human_2_proficient_score": 1,
+        "id": 10,
+        "ai_proficient_score": "N/A"
+    }
+]
